@@ -72,5 +72,12 @@ To run the script:
 node index.js
 ```
 
-## Part 3
-WIP
+## Part 3 - Making this service available
+To make this service available to users, we should allow users to add new phone numbers and also trigger random fact text messages automatically as oppossed to manually.
+
+We'll be using basic HTML and the express node.js framework. I believe there's a workshop after this on node.js development, so I won't elaborate too much on how this would work.
+
+Definitely take a look at the files existing in the repo to reference the end product.
+
+## Moving forward
+What we've built is just scratching the surface of what's possible. Keep coding!
